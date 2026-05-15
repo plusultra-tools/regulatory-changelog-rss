@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.venv/
+venv/
+env/
+
+# Build / packaging
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local outputs (kept in repo: web/feed.xml, web/index.html, web/digest-*.md)
+*.log
+out/
+tmp/
+*.bak
+
+# Secrets
+.env
+.env.*
+!.env.example

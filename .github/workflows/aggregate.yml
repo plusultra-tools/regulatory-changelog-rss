@@ -1,0 +1,49 @@
+name: Aggregate EU regulatory feeds
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # daily at 04:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/aggregator.py"
+      - ".github/workflows/aggregate.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest tests.test_aggregator -v
+
+      - name: Run aggregator
+        run: python scripts/aggregator.py --output web/ --verbose
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/feed.xml web/index.html web/digest-*.md || true
+          if git diff --cached --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "chore: nightly aggregation $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

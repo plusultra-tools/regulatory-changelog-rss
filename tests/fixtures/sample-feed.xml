@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sample EU Feed</title>
+    <link>https://example.invalid/</link>
+    <description>Fixture feed for tests.</description>
+    <item>
+      <title>EDPB adopts new GDPR guidelines on data subject rights</title>
+      <link>https://example.invalid/edpb-gdpr-guidelines</link>
+      <pubDate>Mon, 12 May 2026 09:00:00 GMT</pubDate>
+      <description>The European Data Protection Board adopted updated guidelines clarifying GDPR Article 15.</description>
+    </item>
+    <item>
+      <title>Commission publishes EHDS implementing regulation</title>
+      <link>https://example.invalid/ehds-implementing</link>
+      <pubDate>Sun, 11 May 2026 11:30:00 GMT</pubDate>
+      <description>EHDS implementing acts cover secondary use of health data and the MyHealth@EU infrastructure.</description>
+    </item>
+    <item>
+      <title>NIS2 transposition status across Member States</title>
+      <link>https://example.invalid/nis2-status</link>
+      <pubDate>Sat, 10 May 2026 14:00:00 GMT</pubDate>
+      <description>ENISA reports on NIS2 transposition progress and CRA alignment.</description>
+    </item>
+    <item>
+      <title>Unrelated press release on agriculture subsidies</title>
+      <link>https://example.invalid/agri-subsidies</link>
+      <pubDate>Fri, 09 May 2026 08:15:00 GMT</pubDate>
+      <description>The Commission announced new agricultural subsidy frameworks for 2027.</description>
+    </item>
+    <item>
+      <title>AI Act enforcement priorities clarified by the AI Office</title>
+      <link>https://example.invalid/ai-act-enforcement</link>
+      <pubDate>Thu, 08 May 2026 16:45:00 GMT</pubDate>
+      <description>The AI Office set out priorities for AI Act enforcement, focusing on general-purpose AI providers.</description>
+    </item>
+    <item>
+      <title>Duplicate: EDPB adopts new GDPR guidelines on data subject rights</title>
+      <link>https://example.invalid/edpb-gdpr-guidelines</link>
+      <pubDate>Mon, 12 May 2026 10:00:00 GMT</pubDate>
+      <description>Duplicate item with identical link to test dedupe.</description>
+    </item>
+  </channel>
+</rss>
