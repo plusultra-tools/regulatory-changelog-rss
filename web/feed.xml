@@ -4,6 +4,15 @@
   <subtitle>Filtered digital-regulation updates from EUR-Lex, EDPB, EDPS, ENISA, and the Commission.</subtitle>
   <link href="https://example.invalid/feed.xml" rel="self"/>
   <id>https://example.invalid/feed.xml</id>
-  <updated>2026-07-08T06:28:44Z</updated>
+  <updated>2026-07-09T07:37:31Z</updated>
   <generator uri="https://github.com/example/regulatory-changelog-rss">regulatory-changelog-rss</generator>
+  <entry>
+    <title>Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose the rules on cybersecurity</title>
+    <link href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499"/>
+    <id>urn:rcr:15d92b365b6bfc47d7241997ee1ce053fb246cdf</id>
+    <updated>2026-07-07T22:00:00Z</updated>
+    <author><name>Commission press releases</name></author>
+    <category term="NIS2"/>
+    <summary>European Commission Press release Brussels, 08 Jul 2026 Today, the European Commission decided to refer Ireland, Spain, France and the Netherlands to the Court of Justice of the European Union for failing to notify measures transposing the NIS2 Directive on securing network and information systems (Directive (EU) 2022/2555) into national law.</summary>
+  </entry>
 </feed>
