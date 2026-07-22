@@ -1,6 +1,6 @@
 # EU Regulatory Changelog — 2026-W30
 
-Generated 2026-07-21 06:28 UTC. 2 item(s) matched.
+Generated 2026-07-22 06:29 UTC. 2 item(s) matched.
 
 ## AI Act
 
