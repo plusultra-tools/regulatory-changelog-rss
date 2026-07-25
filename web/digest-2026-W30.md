@@ -1,3 +1,7 @@
 # EU Regulatory Changelog — 2026-W30
 
-Generated 2026-07-24 06:26 UTC. 0 item(s) matched.
+Generated 2026-07-25 06:18 UTC. 1 item(s) matched.
+
+## DSA
+
+- [Commission preliminary finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679) — *Commission press releases*, 2026-07-23T22:00:00Z
