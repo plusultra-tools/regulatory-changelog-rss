@@ -1,6 +1,6 @@
 # EU Regulatory Changelog — 2026-W30
 
-Generated 2026-07-25 06:18 UTC. 1 item(s) matched.
+Generated 2026-07-26 06:37 UTC. 1 item(s) matched.
 
 ## DSA
 
