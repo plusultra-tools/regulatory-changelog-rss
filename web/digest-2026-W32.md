@@ -1,8 +1,7 @@
 # EU Regulatory Changelog — 2026-W32
 
-Generated 2026-08-05 06:28 UTC. 2 item(s) matched.
+Generated 2026-08-06 06:31 UTC. 1 item(s) matched.
 
 ## AI Act
 
 - [Daily News 31 / 07 / 2026](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1715) — *Commission press releases*, 2026-07-31T08:27:00Z
-- [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714) — *Commission press releases*, 2026-07-31T06:04:12Z
