@@ -4,6 +4,15 @@
   <subtitle>Filtered digital-regulation updates from EUR-Lex, EDPB, EDPS, ENISA, and the Commission.</subtitle>
   <link href="https://example.invalid/feed.xml" rel="self"/>
   <id>https://example.invalid/feed.xml</id>
-  <updated>2026-08-30T09:47:38Z</updated>
+  <updated>2026-08-31T10:37:53Z</updated>
   <generator uri="https://github.com/example/regulatory-changelog-rss">regulatory-changelog-rss</generator>
+  <entry>
+    <title>Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</title>
+    <link href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772"/>
+    <id>urn:rcr:e70fdf50458545af54e1fef3e08a249f5ef87c43</id>
+    <updated>2026-08-31T07:28:03Z</updated>
+    <author><name>Commission press releases</name></author>
+    <category term="DSA"/>
+    <summary>European Commission Press release Brussels, 31 Aug 2026 Today, the Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA).</summary>
+  </entry>
 </feed>
