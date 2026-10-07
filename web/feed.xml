@@ -4,6 +4,15 @@
   <subtitle>Filtered digital-regulation updates from EUR-Lex, EDPB, EDPS, ENISA, and the Commission.</subtitle>
   <link href="https://example.invalid/feed.xml" rel="self"/>
   <id>https://example.invalid/feed.xml</id>
-  <updated>2026-10-06T11:03:27Z</updated>
+  <updated>2026-10-07T10:53:47Z</updated>
   <generator uri="https://github.com/example/regulatory-changelog-rss">regulatory-changelog-rss</generator>
+  <entry>
+    <title>Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe</title>
+    <link href="https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089"/>
+    <id>urn:rcr:547b4cfa64a5726851036049d8881adcee27cd19</id>
+    <updated>2026-10-06T15:07:09Z</updated>
+    <author><name>Commission press releases</name></author>
+    <category term="DORA"/>
+    <summary>European Commission Speech Brussels, 06 Oct 2026 President Drexler, Dear Dora, Ladies and gentlemen, Congratulations on your 25th anniversary! IFOAM Organics Europe and all its members have so much to be proud...</summary>
+  </entry>
 </feed>
