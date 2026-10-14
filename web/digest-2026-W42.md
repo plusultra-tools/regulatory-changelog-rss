@@ -1,3 +1,3 @@
 # EU Regulatory Changelog — 2026-W42
 
-Generated 2026-10-13 11:28 UTC. 0 item(s) matched.
+Generated 2026-10-14 09:20 UTC. 0 item(s) matched.
