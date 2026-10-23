@@ -4,15 +4,6 @@
   <subtitle>Filtered digital-regulation updates from EUR-Lex, EDPB, EDPS, ENISA, and the Commission.</subtitle>
   <link href="https://example.invalid/feed.xml" rel="self"/>
   <id>https://example.invalid/feed.xml</id>
-  <updated>2026-10-22T09:12:38Z</updated>
+  <updated>2026-10-23T09:09:03Z</updated>
   <generator uri="https://github.com/example/regulatory-changelog-rss">regulatory-changelog-rss</generator>
-  <entry>
-    <title>Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act</title>
-    <link href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2223"/>
-    <id>urn:rcr:58459b1c8a4e43b5f1f11d157dfd687c38d19314</id>
-    <updated>2026-10-21T07:37:53Z</updated>
-    <author><name>Commission press releases</name></author>
-    <category term="DSA"/>
-    <summary>European Commission Press release Brussels, 21 Oct 2026 Today, the European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams.</summary>
-  </entry>
 </feed>
