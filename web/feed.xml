@@ -4,15 +4,6 @@
   <subtitle>Filtered digital-regulation updates from EUR-Lex, EDPB, EDPS, ENISA, and the Commission.</subtitle>
   <link href="https://example.invalid/feed.xml" rel="self"/>
   <id>https://example.invalid/feed.xml</id>
-  <updated>2026-11-06T11:52:24Z</updated>
+  <updated>2026-11-07T10:54:27Z</updated>
   <generator uri="https://github.com/example/regulatory-changelog-rss">regulatory-changelog-rss</generator>
-  <entry>
-    <title>Commission preliminarily finds TikTok&apos;s ‘For You&apos; feed in breach of Digital Services Act for harmful ‘rabbit holes&apos; effect</title>
-    <link href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361"/>
-    <id>urn:rcr:8bdbc3e06e74a17be6ac8a2a61cff8a4c8b182d0</id>
-    <updated>2026-11-05T23:00:00Z</updated>
-    <author><name>Commission press releases</name></author>
-    <category term="DSA"/>
-    <summary>European Commission Press release Brussels, 06 Nov 2026 Today, the European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect&apos; of its recommender system.</summary>
-  </entry>
 </feed>
